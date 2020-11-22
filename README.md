@@ -1,18 +1,11 @@
-### Hi there 👋
+### KarmaDev
 
-[![Amazing video](https://img.youtube.com/vi/WhEu2TGdq8c/maxresdefault.jpg)](https://www.youtube.com/watch?v=WhEu2TGdq8c)
-
-<!--
-**KarmaConfigs/KarmaConfigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm just a java developer, 17 years old man and<br>
+I'm ready to face the world with my knowledge.<br>
+<br>
+I wanna change it, update it, and make it better,<br>
+I'm not afraid of it, I'm anxious of its secrets<br>
+<br>
+- 🔭 Developer of multiple minecraft plugins and tools
+- 🌱 Grewing as developer
+- 📫 Want to contact me? [discord](https://discord.gg/2nVs5gcf)
