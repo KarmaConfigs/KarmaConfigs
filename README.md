@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Amazing video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=WhEu2TGdq8c)
+[![Amazing video](https://img.youtube.com/vi/WhEu2TGdq8c/maxresdefault.jpg)](https://www.youtube.com/watch?v=WhEu2TGdq8c)
 
 <!--
 **KarmaConfigs/KarmaConfigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
