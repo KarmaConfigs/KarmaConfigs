@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-()[https://www.youtube.com/watch?v=WhEu2TGdq8c]
+![Amazong video](https://www.youtube.com/watch?v=WhEu2TGdq8c)
 
 <!--
 **KarmaConfigs/KarmaConfigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
