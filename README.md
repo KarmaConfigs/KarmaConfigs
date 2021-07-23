@@ -9,3 +9,5 @@ I'm not afraid of it, I'm anxious of its secrets<br>
 - 🔭 Developer of multiple minecraft plugins and tools
 - 🌱 Grewing as developer
 - 📫 Want to contact me? [discord](https://discord.gg/2nVs5gcf)
+
+[![KarmaDev GitHub stats](https://github-readme-stats.vercel.app/api?username=karmaconfigs)](https://github.com/KarmaConfigs)
