@@ -11,4 +11,5 @@ I'm not afraid of it, I'm anxious of its secrets<br>
 - 📫 Want to contact me? [discord](https://discord.gg/2nVs5gcf)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=karmaconfigs&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/KarmaConfigs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karmaconfigs&repo=karmaapi)](https://github.com/karmaconfigs/karmaapi)
+[![KarmaAPI Card](https://github-readme-stats.vercel.app/api/pin/?username=karmaconfigs&repo=karmaapi)](https://github.com/karmaconfigs/karmaapi)
+[![LockLogin Card](https://github-readme-stats.vercel.app/api/pin/?username=karmaconfigs&repo=LockLoginReborn)](https://github.com/karmaconfigs/lockloginreborn)
