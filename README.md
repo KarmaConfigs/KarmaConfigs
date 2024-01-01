@@ -36,7 +36,7 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/KarmaDeb/LockLoginReborn" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KarmaDeb&repo=LockLoginReborn&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KarmaDeb/KarmaAPI" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KarmaDeb&repo=KarmaAPI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/KarmaDeb/LockLogin2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KarmaDeb&repo=LockLogin2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KarmaDeb/KarmaAPI2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KarmaDeb&repo=KarmaAPI2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
