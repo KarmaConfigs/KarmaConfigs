@@ -1,7 +1,7 @@
 Hi 👋 My name is KarmaDev
 =========================
 
-Java developer
+Full-stack developer
 --------------
 
 I've been coding since I was 16 on 2018. During that period of time, I've learned - Java - Lua - C# - PHP And of course, web development. (HTML, CSS and JavaScript)
