@@ -28,6 +28,12 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
 
 ### Stats
 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="thefourcraft Github Stats" 
+            src="https://streak-stats.demolab.com/?user=KarmaDeb&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=DD2727" 
+            height="192px" width= "3000px"/>
+</a>
+<br />
 <a href="https://wakatime.com/@KarmaDev">
         <img alt="KarmaDeb Score" 
                 src="https://github-readme-stats.vercel.app/api?username=KarmaDeb&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
@@ -37,7 +43,4 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KarmaDev&layout=compact&theme=dark&hide_border=true" />
 </a>
 <br />
-<a href="https://github.com/KarmaDeb" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaDeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
 </div>
