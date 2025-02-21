@@ -32,8 +32,11 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
         <img alt="KarmaDeb Score" 
                 src="https://github-readme-stats.vercel.app/api?username=KarmaDeb&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
-        <br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=KarmaDev&layout=compact&theme=dark&hide_border=true" /><br />
+<br/>
+<a href="https://wakatime.com/@KarmaDev"> 
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KarmaDev&layout=compact&theme=dark&hide_border=true" />
+</a>
+<br />
 <a href="http://www.github.com/KarmaDeb">
         <img src="https://github-readme-stats.vercel.app/api?username=KarmaDeb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KarmaDeb's GitHub stats" />
 </a>
