@@ -37,10 +37,7 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KarmaDev&layout=compact&theme=dark&hide_border=true" />
 </a>
 <br />
-<a href="http://www.github.com/KarmaDeb">
-        <img src="https://github-readme-stats.vercel.app/api?username=KarmaDeb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="KarmaDeb's GitHub stats" />
+<a href="https://github.com/KarmaDeb" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaDeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-<a href="https://github.com/KarmaDeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarmaDeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </div>
