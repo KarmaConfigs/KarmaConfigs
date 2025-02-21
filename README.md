@@ -8,7 +8,6 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
 
 * 🌍  I'm based in Spain
 * ✉️  You can contact me at [karmadev.es@gmail.com](mailto:karmadev.es@gmail.com)
-* 🚀  I'm currently working on [LockLogin2](http://github.com/KarmaDeb/LockLogin2)
 * 🧠  I'm learning full-stack development
 * ⚡  Have you ever seen batman and me at the same time?
 
