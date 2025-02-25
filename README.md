@@ -28,11 +28,12 @@ I've been coding since I was 16 on 2018. During that period of time, I've learne
 
 ### Stats
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="thefourcraft Github Stats" 
-            src="https://streak-stats.demolab.com/?user=KarmaDeb&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&fire=DD2727" 
+ <a href="https://wakatime.com/@KarmaDev">
+    <img alt="KarmaDev Github Stats" 
+            src="https://streak-stats.demolab.com/?user=KarmaDeb&theme=dark&hide_border=true&fire=DD2727" 
             height="192px" width= "3000px"/>
 </a>
+<a href="https://wakatime.com/@KarmaDev"><img src="https://streak-stats.demolab.com?user=KarmaDeb&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 <br />
 <a href="https://wakatime.com/@KarmaDev">
         <img alt="KarmaDeb Score" 
